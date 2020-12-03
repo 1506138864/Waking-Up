@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T07:31:16.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.3" etag="bjJqgIi8x_UFlmhBMhNG" type="github"><diagram id="BveiJomkIh_YLb-aaVfS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T12:58:45.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="scoHR4pfKtYDLRCNO3jo" version="13.10.3" type="github">
+  <diagram id="BveiJomkIh_YLb-aaVfS" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M_bzso7bv0qHUihyJy1d-1" value="产品输出埋点文档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_bzso7bv0qHUihyJy1d-2" value="确定埋点方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_bzso7bv0qHUihyJy1d-3" value="埋点计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_bzso7bv0qHUihyJy1d-4" value="埋点开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_bzso7bv0qHUihyJy1d-5" value="埋点验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M_bzso7bv0qHUihyJy1d-6" value="埋点发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
